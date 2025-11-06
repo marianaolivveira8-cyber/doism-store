@@ -1,0 +1,1 @@
+Envie os arquivos soltos para o GitHub e faça o Deploy na Vercel. Edite produtos em index.html e imagens em /images.
